@@ -20,7 +20,7 @@ using Excel, SQL Server and Power BI.
 
 ### Project 3 — SQL Data Analysis
 - 15 SQL queries written in SQL Server Management Studio
-- Covered SELECT, WHERE, GROUP BY, HAVING, COUNT, SUM, AVG
+- Covered WHERE, GROUP BY, ORDER BY, HAVING, AGGREGATION, COUPON Analysis
 - Extracted insights on revenue, order status and customer behaviour
 
 ### Project 4 — Power BI Dashboard
